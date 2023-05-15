@@ -1,0 +1,21 @@
+Voilà les commandes de mon BOT:
+!delete
+!lastcommand
+!history
+!back
+!forward
+!clearhistory
+!requestaccess
+!releaseaccess
+!start_conversation
+!reponse
+!reset_conversation
+!savehistory
+!loadhistory
+!creersondage
+!votesondage
+!resultatsondage
+!terminersondage
+!rappel
+!creerrappel
+!afficherrappels

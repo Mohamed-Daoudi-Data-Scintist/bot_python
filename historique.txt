@@ -1,0 +1,11 @@
+User ID: 374518224336715776
+Command: !delete
+Command: !delete
+Command: !delete
+Command: !savehistory
+Command: !history
+Command: !delete
+Command: !delete
+Command: !delete
+Command: !savehistory
+
